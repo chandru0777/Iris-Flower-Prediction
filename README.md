@@ -1,4 +1,4 @@
-echo "# Iris Flask ML App
+# Iris Flask ML App
 This is a Flask web application that predicts the Iris flower species using a Machine Learning model trained on the Iris dataset.
 
 ## Features
@@ -47,3 +47,4 @@ iris_flask_app/
 
 ## Deployment
 Can be deployed on Render or Heroku." > README.md
+https://iris-flower-prediction-fs8f.onrender.com
